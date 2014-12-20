@@ -1,0 +1,19 @@
+{
+  "name": "wazery",
+  "version": "1.0.0",
+  "description": "my simple static site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wazery/wazery.com.git"
+  },
+  "author": "Islam Wazery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wazery/wazery.com/issues"
+  },
+  "homepage": "https://github.com/wazery/wazery.com"
+}
